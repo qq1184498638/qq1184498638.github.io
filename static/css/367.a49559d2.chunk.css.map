@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/367.a49559d2.chunk.css","mappings":"AAIA,8CACI,WACJ","sources":["page/epic/style.css"],"sourcesContent":[".spin-height{\r\n    height: 100%;\r\n\r\n}\r\n.spin-height .ant-spin-container {\r\n    height: 100%;\r\n}\r\n"],"names":[],"sourceRoot":""}
